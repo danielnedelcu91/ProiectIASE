@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\CanibaliSiMisionari\CanibaliSiMisionari\bin\Debug\CanibaliSiMisionari.exe.config
+C:\Users\Daniel\source\repos\CanibaliSiMisionari\CanibaliSiMisionari\bin\Debug\CanibaliSiMisionari.exe
+C:\Users\Daniel\source\repos\CanibaliSiMisionari\CanibaliSiMisionari\bin\Debug\CanibaliSiMisionari.pdb
+C:\Users\Daniel\source\repos\CanibaliSiMisionari\CanibaliSiMisionari\obj\Debug\CanibaliSiMisionari.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\CanibaliSiMisionari\CanibaliSiMisionari\obj\Debug\CanibaliSiMisionari.Form1.resources
+C:\Users\Daniel\source\repos\CanibaliSiMisionari\CanibaliSiMisionari\obj\Debug\CanibaliSiMisionari.Properties.Resources.resources
+C:\Users\Daniel\source\repos\CanibaliSiMisionari\CanibaliSiMisionari\obj\Debug\CanibaliSiMisionari.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\CanibaliSiMisionari\CanibaliSiMisionari\obj\Debug\CanibaliSiMisionari.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\CanibaliSiMisionari\CanibaliSiMisionari\obj\Debug\CanibaliSiMisionari.exe
+C:\Users\Daniel\source\repos\CanibaliSiMisionari\CanibaliSiMisionari\obj\Debug\CanibaliSiMisionari.pdb
